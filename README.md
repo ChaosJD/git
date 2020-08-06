@@ -23,3 +23,6 @@ https://learngitbranching.js.org/
 * [Git Crashkurs [008] - Branches Mergen](https://youtu.be/xyTS2yyOWnA)  
 * [Git Crashkurs [009] - git stash](https://youtu.be/5rSaU-cj_J0)  
 * [Git Crashkurs [010] - FINALE: GitHub Repo erstellen & TortoiseGit](https://youtu.be/qIQUfbG_s1M)  
+
+# readme
+* [How to Automate Your GitHub Profile README](https://www.freecodecamp.org/news/go-automate-your-github-profile-readme/)
