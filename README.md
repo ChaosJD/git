@@ -26,3 +26,6 @@ https://learngitbranching.js.org/
 
 # readme
 * [How to Automate Your GitHub Profile README](https://www.freecodecamp.org/news/go-automate-your-github-profile-readme/)
+
+# itneresting, encryption
+* [keybase](https://keybase.io/blog/encrypted-git-for-everyone)
