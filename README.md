@@ -11,6 +11,7 @@ https://learngitbranching.js.org/
 ## Articles
 * [ImportantGitComands](https://t3n.de/news/schneller-git-einstieg-befehle-1077761/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)  
 * [Git and GitHub Crash Course](https://www.freecodecamp.org/news/git-and-github-crash-course/)
+* [How to Recover a Deleted Git Branch](https://morioh.com/p/d29ebe3f0b86)
 
 ## youtube
 * [Git Crashkurs [001] - Was ist Git?](https://youtu.be/Nkz7TnhFvWU)  
