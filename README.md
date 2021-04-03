@@ -30,3 +30,7 @@ https://learngitbranching.js.org/
 
 # itneresting, encryption
 * [keybase](https://keybase.io/blog/encrypted-git-for-everyone)
+
+
+# PowerLine
+* [WindowsTerminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
