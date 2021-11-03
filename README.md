@@ -37,6 +37,7 @@ https://learngitbranching.js.org/
 * [keybase](https://keybase.io/blog/encrypted-git-for-everyone)
 
 ## PowerLine
+The link is obsolete. It is possible that microsoft add it to the windows terminal.
 * [WindowsTerminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
 
 ## cheatsheet
