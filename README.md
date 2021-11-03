@@ -26,12 +26,16 @@ https://learngitbranching.js.org/
 * [Git Crashkurs [009] - git stash](https://youtu.be/5rSaU-cj_J0)  
 * [Git Crashkurs [010] - FINALE: GitHub Repo erstellen & TortoiseGit](https://youtu.be/qIQUfbG_s1M)  
 * [Git - explaining the black box](https://youtu.be/Me73yBGqt0o)
+
 # readme
 * [How to Automate Your GitHub Profile README](https://www.freecodecamp.org/news/go-automate-your-github-profile-readme/)
 
 # interesting, encryption
 * [keybase](https://keybase.io/blog/encrypted-git-for-everyone)
 
-
 # PowerLine
 * [WindowsTerminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
+
+# cheatsheet
+* [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+* [https://training.github.com/](url)
