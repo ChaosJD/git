@@ -47,3 +47,7 @@ The link is obsolete. It is possible that microsoft add it to the windows termin
 ## UserManual
 * [ProGit- Second Edition, English](https://github.com/progit/progit2/releases/download/2.1.334/progit.pdf)
 * [ProGit- Second Edition, German](https://github.com/progit/progit2-de/releases/download/2.1.192/progit.pdf)
+
+## .gitignore
+* [Generating .gitignore](https://www.toptal.com/developers/gitignore)
+
