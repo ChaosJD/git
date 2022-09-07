@@ -42,7 +42,7 @@ The link is obsolete. It is possible that microsoft add it to the windows termin
 
 ## cheatsheet
 * [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
-* [https://training.github.com/](url)
+* [training.github.com](https://training.github.com/)
 
 ## UserManual
 * [ProGit- Second Edition, English](https://github.com/progit/progit2/releases/download/2.1.334/progit.pdf)
