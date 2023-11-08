@@ -16,6 +16,7 @@ https://learngitbranching.js.org/
 * [Git and GitHub Crash Course](https://www.freecodecamp.org/news/git-and-github-crash-course/)
 * [How to Recover a Deleted Git Branch](https://morioh.com/p/d29ebe3f0b86)
 * [Boost Your Programming Skills by Reading Git's Code](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
+* [How to revert a Single file](https://dev.to/lofiandcode/git-and-github-how-to-revert-a-single-file-dha)
 
 ## youtube
 * [Git Crashkurs [001] - Was ist Git?](https://youtu.be/Nkz7TnhFvWU)  
